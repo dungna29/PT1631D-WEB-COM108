@@ -17,12 +17,11 @@ int main()
 	//Chia lấy phần dư
 	printf("Chia lay phan du 8 phan tram 2 = %d \n", 8 % 2);
 	printf("Chia lay phan du 8 phan tram 3 = %d \n", 8 % 3);
-
 	/*
 	 * Viết 1 chương trình cho người dùng nhập vào 3 số thực
 	 * Sau đó in ra 4 phép toán cộng trừ nhân chia của 3 số đó
-	 * In ra màn hình các số đã nhập vào và kết quả* 
-	 * 
+	 * In ra màn hình các số đã nhập vào và kết quả*
+	 *
 	 */
 	return 0;
 }
